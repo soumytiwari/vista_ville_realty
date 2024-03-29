@@ -1,0 +1,1 @@
+in the app folder goes, page, layout and specific next 13 files that are gonna represented as route
